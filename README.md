@@ -1,4 +1,5 @@
 # Two-Way Digital Paging System Using Software Defined Radios
+*Completed: December 2025*
 
 ## 📌 Project Overview
 This project transforms a standard software-defined radio (SDR) setup into a secure, reliable, packet-switched paging system capable of guaranteeing message delivery in noisy environments. Developed for the EN2130 Communication Design Project at the Department of Electronic and Telecommunication Engineering, University of Moratuwa, this system facilitates two-way text messaging with custom priority scheduling, AES encryption, and reliability protocols.
